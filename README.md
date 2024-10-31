@@ -1,2 +1,3 @@
 # IN0005-Python
- Python module projects & excersices
+ This repo contains python module projects & excersices completed during foundation year
+ 
